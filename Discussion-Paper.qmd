@@ -20,6 +20,12 @@ In terms of the issue of declining in response rate in surveys, the paper ‘Whe
 
 According to this scholarly article by Bereau of Labor Statistics of the United States, the Bureau of Labor Statistics (BLS) has adapted its survey methods in response to declining participation rates, incorporating innovative approaches like video data collection and web scraping. This evolution ensures the reliability of its data amidst changing societal and work patterns, especially highlighted by the COVID-19 pandemic's impact. BLS's efforts in expanding sample sizes and integrating alternative data sources exemplify their commitment to maintaining high-quality statistical outputs, critical for informed decision-making.
 
-#Reference
+#newpage
 
-references.bib
+Reference
+
+@Leeper2019
+
+@BLSDataQuality
+
+@JSSAMSpeciallssue
